@@ -1,0 +1,3 @@
+jenkins is a CI/CD/CT tool to create a pipeline 
+To start jenkins server ---->java -jar jenkins.war(in cmd promt)
+To start jenkins server ---->java -jar
